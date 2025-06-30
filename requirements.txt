@@ -1,0 +1,8 @@
+boto3
+pillow
+openai
+requests
+pdf2image
+streamlit
+python-dotenv
+streamlit
